@@ -1,8 +1,8 @@
 import random
-print("NUMERONARVAUSPELI")
+print("Numeronarvauspeli")
 
 numero = random.randint(1,9)
-arvaus = int(input("Arvaa ja kirjoita:"))
+arvaus = int(input("Arvaa numeroa väliltä 1-9:"))
   
 while True:
     
